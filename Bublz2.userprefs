@@ -1,12 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\Bublz!\Assets\InstructionsScript.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BubblePooler.cs">
     <Files>
-      <File FileName="..\Bublz!\Assets\InstructionsScript.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\BubbleScript.cs" Line="64" Column="101" />
-      <File FileName="Assets\Scripts\BubblePooler.cs" Line="96" Column="54" />
-      <File FileName="Assets\Scripts\LevelScript.cs" Line="37" Column="29" />
-      <File FileName="Assets\Scripts\MenuLevelLoad.cs" Line="23" Column="38" />
+      <File FileName="Assets\Scripts\BubbleScript.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\BubblePooler.cs" Line="72" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -2,16 +2,7 @@ fileFormatVersion: 2
 guid: 0530f5ebd114d034ba1b2fbd064d0f8a
 MonoImporter:
   serializedVersion: 2
-  defaultReferences:
-  - bubble: {instanceID: 0}
-  - scoreText: {instanceID: 0}
-  - targetText: {instanceID: 0}
-  - countText: {instanceID: 0}
-  - font: {fileID: 12800000, guid: a66b72f2ece9dfc4c9c6c70ba6bafaae, type: 3}
-  - levelCompleteAnim: {instanceID: 0}
-  - retry: {instanceID: 0}
-  - nextLevel: {instanceID: 0}
-  - mainMenu: {instanceID: 0}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
